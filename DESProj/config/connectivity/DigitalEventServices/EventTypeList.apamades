@@ -1,0 +1,4 @@
+#EventTypeList.apamades 10.3.0.0
+#This is an internal file and is not user-editable.
+des.evs.EventPersistenceError,d4a924adf27edf73,SELECTED
+EXPORT,com.test.testEvent
